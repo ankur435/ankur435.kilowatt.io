@@ -1,2 +1,2 @@
 # ankur435.kilowatt.io
-All thinkgs energy transition. 
+All things energy transition. 

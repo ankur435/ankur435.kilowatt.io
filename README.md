@@ -1,2 +1,2 @@
-# ankur435.kilowatt.io
+# kilowatt.io
 All things energy transition. 
